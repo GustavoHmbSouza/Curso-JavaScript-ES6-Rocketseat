@@ -46,7 +46,7 @@ console.log(soma(1, 3, 6)); //Spread
 var arr1 = [1, 2, 3];
 var arr2 = [4, 5, 6];
 var arr3 = [].concat(arr1, arr2);
-console.log(arr3); //Spread
+console.log(arr3); //Spread 2
 
 var usuario1 = {
   nome: 'Gustavo',
